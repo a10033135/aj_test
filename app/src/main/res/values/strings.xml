@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">aj_test</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Time_Default">yyyy-MM-dd hh:mm:ss</string>
+    <string name="Temp_Default">24C</string>
+
+</resources>
